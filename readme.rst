@@ -1,4 +1,11 @@
 ###################
+Prototype CodeIgniter
+###################
+
+Installation : Please import the SQL(6475.sql) first before run the code. 
+This code has been tested on PHP 7.2.29. The codeigniter version is 3.1.6.
+
+###################
 What is CodeIgniter
 ###################
 
